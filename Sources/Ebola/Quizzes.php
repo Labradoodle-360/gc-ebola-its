@@ -8,6 +8,8 @@
  * From: Greenville College
  */
 
+//-- Matthew was here...example commit.
+
 if (!defined('SMF'))
 	die('No direct access...');
 
